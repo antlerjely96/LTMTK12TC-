@@ -25,15 +25,12 @@ public class hocSinh
 
     public void hienThi()
     {
-        for (int i = 0; i < 10; i++)
-        {
-            Console.WriteLine("Ma Sinh Vien: " + this.maSinhVien);
-            Console.WriteLine("Ho ten: " + this.hoTen);
-            Console.Write("Diem toan: " + this.diemToan);
-            Console.Write("Diem Van: " + this.diemVan);
-            Console.Write("Diem Tieng Anh: " + this.diemTiengAnh);
-            Console.Write("Diem trung binh: " + this.diemTrungBinh);
-        }
+        Console.WriteLine("Ma Sinh Vien: " + this.maSinhVien);
+        Console.WriteLine("Ho ten: " + this.hoTen);
+        Console.Write("Diem toan: " + this.diemToan);
+        Console.Write("Diem Van: " + this.diemVan);
+        Console.Write("Diem Tieng Anh: " + this.diemTiengAnh);
+        Console.Write("Diem trung binh: " + this.diemTrungBinh);
     }
 
     public void tinhDiemTrungBinh()
