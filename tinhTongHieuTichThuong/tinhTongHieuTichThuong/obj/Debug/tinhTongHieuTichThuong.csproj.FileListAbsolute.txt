@@ -1,0 +1,11 @@
+C:\Users\admin\RiderProjects\LTMTK12TC-\tinhTongHieuTichThuong\tinhTongHieuTichThuong\bin\Debug\tinhTongHieuTichThuong.exe.config
+C:\Users\admin\RiderProjects\LTMTK12TC-\tinhTongHieuTichThuong\tinhTongHieuTichThuong\bin\Debug\tinhTongHieuTichThuong.exe
+C:\Users\admin\RiderProjects\LTMTK12TC-\tinhTongHieuTichThuong\tinhTongHieuTichThuong\bin\Debug\tinhTongHieuTichThuong.pdb
+C:\Users\admin\RiderProjects\LTMTK12TC-\tinhTongHieuTichThuong\tinhTongHieuTichThuong\obj\Debug\tinhTongHieuTichThuong.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\LTMTK12TC-\tinhTongHieuTichThuong\tinhTongHieuTichThuong\obj\Debug\tinhTongHieuTichThuong.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\RiderProjects\LTMTK12TC-\tinhTongHieuTichThuong\tinhTongHieuTichThuong\obj\Debug\tinhTongHieuTichThuong.Properties.Resources.resources
+C:\Users\admin\RiderProjects\LTMTK12TC-\tinhTongHieuTichThuong\tinhTongHieuTichThuong\obj\Debug\tinhTongHieuTichThuong.csproj.GenerateResource.cache
+C:\Users\admin\RiderProjects\LTMTK12TC-\tinhTongHieuTichThuong\tinhTongHieuTichThuong\obj\Debug\tinhTongHieuTichThuong.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\LTMTK12TC-\tinhTongHieuTichThuong\tinhTongHieuTichThuong\obj\Debug\tinhTongHieuTichThuong.exe
+C:\Users\admin\RiderProjects\LTMTK12TC-\tinhTongHieuTichThuong\tinhTongHieuTichThuong\obj\Debug\tinhTongHieuTichThuong.pdb
+C:\Users\admin\RiderProjects\LTMTK12TC-\tinhTongHieuTichThuong\tinhTongHieuTichThuong\obj\Debug\tinhTongHieuTichThuong.Form1.resources
